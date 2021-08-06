@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.droidontime.com/dot11/raphael/gapps/dotOS-R-v5.1.2-raphael-GAPPS-20210719-2035.zip
+  ROM_URL: https://pilotfiber.dl.sourceforge.net/project/havoc-os/raphael/Havoc-OS-v3.9-20200918-raphael-Official-GApps.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
