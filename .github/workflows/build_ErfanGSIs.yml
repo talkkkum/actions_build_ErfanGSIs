@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdWE1WmUzTUZ3NFRpR1BiV1BaZ1NwYkJydFlhP2U9ME5zejZO.zip
+  ROM_URL: https://downloads.droidontime.com/dot11/raphael/gapps/dotOS-R-v5.1.2-raphael-GAPPS-20210719-2035.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
